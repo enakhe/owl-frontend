@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/owl-frontend/static/css/main.5a130523.css",
+    "main.js": "/owl-frontend/static/js/main.b28c28a7.js",
+    "static/js/787.cda612ba.chunk.js": "/owl-frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.png": "/owl-frontend/static/media/logo.5a1620df514a2cf70b72.png",
+    "static/media/author.jpg": "/owl-frontend/static/media/author.b38ffe7e5fdf96e5510e.jpg",
+    "static/media/info.svg": "/owl-frontend/static/media/info.3a478d7a03d49c3e356b2b00b7938b61.svg",
+    "static/media/mail.svg": "/owl-frontend/static/media/mail.32ac5f8f1f1dfae6b63999e5c2b41254.svg",
+    "index.html": "/owl-frontend/index.html",
+    "main.5a130523.css.map": "/owl-frontend/static/css/main.5a130523.css.map",
+    "main.b28c28a7.js.map": "/owl-frontend/static/js/main.b28c28a7.js.map",
+    "787.cda612ba.chunk.js.map": "/owl-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a130523.css",
+    "static/js/main.b28c28a7.js"
+  ]
+}
